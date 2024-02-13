@@ -1,0 +1,69 @@
+#Link{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: ;
+    font-display: ;
+    text-decoration:none;
+}
+
+a:visited{
+    color: rgb(0, 0, 0);
+}
+
+a:link{
+    color: blue;
+}
+a:hover{
+    color: whitesmoke;
+}
+a:active{
+    color: crimson;
+}
+a:focus{
+    color: darkred; 
+}
+
+body{
+    background-color: blue;
+    color: aliceblue;
+}
+
+
+.SUREN{
+    position: static;
+
+}
+
+.SRIDHAR{
+    position: relative;
+    left: 32%;
+    bottom: 430px;
+}
+
+.PURUSHOTHAMAN{
+    position: relative;
+    left: 65%;
+    bottom: 860px;
+}
+
+.SATHISH{
+    position: relative;
+    bottom: 860px;
+}
+
+.RAJA{
+    position: relative;
+    left: 32%;
+    bottom: 1290px;
+}
+
+.MALICK{
+    position: relative;
+    left: 65%;
+    bottom: 1720px;
+    
+}
+
+.KARTHY{
+    position: relative;
+    bottom: 1720px;
+}

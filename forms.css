@@ -1,0 +1,60 @@
+body {
+    background-image: url('file:///C:/Users/karth/OneDrive/Desktop/HTML/media/ebackground.1.jpg');
+    background-size: cover;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.form{
+    width: 500px;
+    padding: 10px 20px 30px;
+    margin: 125px auto auto;
+    background-color: rgba(0, 0, 0, 0.5);
+    font-size: 25px;
+    border-radius: 9px;
+    
+}
+
+.form h1{
+    color: #8D3E24;
+    text-align: center;
+}
+
+body{
+    color: aliceblue;
+}
+
+.form .textbox{
+    display: block;
+}
+
+.input input{
+    width: 100%;
+    font-size: 1.2em;
+    border: #E6C2B3;
+    box-shadow: 2px 1px 1px;
+    border-radius: 9px;
+    padding: 10px 10px ;
+    box-sizing: border-box;
+    margin: 5px 0px 10px 0px;
+}
+
+input:focus{
+    background-color: #A7CAB1;
+}
+
+.button{
+    text-align: center;
+}
+
+button{
+    background-color:rgb(244, 242, 234) ;
+    font-size: 20px;
+    margin-top: 15px;
+    padding: 10px 20px;
+    box-shadow: 3px 2px 1px;
+}
+
+.radio input{
+    accent-color: green;
+    transform: scale(1.5);
+}
